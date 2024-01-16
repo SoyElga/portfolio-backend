@@ -1,2 +1,5 @@
 __pycache__
 virt/
+lib/
+Dockerfile
+docker-compose.yml
